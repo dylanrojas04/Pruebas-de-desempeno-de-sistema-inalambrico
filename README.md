@@ -97,18 +97,18 @@ Durante las pruebas *outdoor*, se evalúa la **distancia máxima alcanzada** y l
 
 | Potencia (dBm) | Velocidad | Alcance estimado (m) | Observaciones |
 |----------------|------------|----------------------|----------------|
-| **-18 dBm** | 250 kbps | 10 | Comunicación débil, frecuentes pérdidas |
-| **-18 dBm** | 1 Mbps | 7 | Bajo alcance, sensible a interferencias |
-| **-18 dBm** | 2 Mbps | 5 | Inestable, pérdidas continuas |
-| **-12 dBm** | 250 kbps | 16 | Enlace más estable, leve retardo |
-| **-12 dBm** | 1 Mbps | 13 | Fluido, ocasionales errores de recepción |
-| **-12 dBm** | 2 Mbps | 9 | Intermitente, dependiente del entorno |
-| **-6 dBm** | 250 kbps | 25 | Estable, buena sincronización |
-| **-6 dBm** | 1 Mbps | 20 | Desempeño óptimo en línea de vista |
-| **-6 dBm** | 2 Mbps | 15 | Correcto, con algunas pérdidas |
-| **0 dBm** | 250 kbps | 35 | Excelente estabilidad y alcance |
-| **0 dBm** | 1 Mbps | 28 | Muy estable, sin errores visibles |
-| **0 dBm** | 2 Mbps | 22 | Buen desempeño, leve reducción de rango |
+| **-18 dBm** | 250 kbps | 5 | Comunicación débil, frecuentes pérdidas |
+| **-18 dBm** | 1 Mbps | 5.4 | Bajo alcance, sensible a interferencias |
+| **-18 dBm** | 2 Mbps | 4.8 | Inestable, pérdidas continuas |
+| **-12 dBm** | 250 kbps | 5.8 | Enlace más estable, leve retardo |
+| **-12 dBm** | 1 Mbps | 6.28 | Fluido, ocasionales errores de recepción |
+| **-12 dBm** | 2 Mbps | 5.9 | Intermitente, dependiente del entorno |
+| **-6 dBm** | 250 kbps | 6.8 | Estable, buena sincronización |
+| **-6 dBm** | 1 Mbps | 7.1 | Desempeño óptimo en línea de vista |
+| **-6 dBm** | 2 Mbps | 7.37  | Correcto, con algunas pérdidas |
+| **0 dBm** | 250 kbps | 8.01 | Excelente estabilidad y alcance |
+| **0 dBm** | 1 Mbps | 9.53 | Muy estable, sin errores visibles |
+| **0 dBm** | 2 Mbps | 15.18 | Buen desempeño, leve reducción de rango |
 
 > 🧾 *Estos valores son referenciales y pueden variar según condiciones ambientales, obstáculos e interferencias en la banda de 2.4 GHz.*
 ---
